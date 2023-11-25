@@ -1,2 +1,2 @@
 # Case-Studies
-My Logical Solutions for different type of complex problems in SQL database environment. 
+My logical solutions for different type of basic to complex problems in SQL database environment.
